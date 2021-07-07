@@ -1,27 +1,27 @@
-## First Name Last Name
+## Cody Andreichuk
 
-### Term Year 
+### Summer 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- DSBA
 
-- Course 2
+- Calc 1 and geometry
 
-- Course 3
+- N/A
 
-- Course 4
+- N/A
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- minecwaft
 
-- Thing 2
+- Maymays
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- discord as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/07
